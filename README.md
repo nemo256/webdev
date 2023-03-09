@@ -21,3 +21,11 @@
 # `HTML`
 
 </div>
+
+## Qu'est-ce que le HTML ?
+- HTML signifie Hyper Text Markup Language.
+- Un fichier HTML est un fichier texte simple, parfaitement lisible, respectant un ensemble de convention d'écriture
+- HTML est le langage de balisage standard pour la création de pages Web.
+- HTML décrit la structure d'une page Web.
+- HTML se compose d'une série d'éléments.
+- Un fichier HTML (Hyper Text Markup Language) n'est pas compilé (ce n'est pas un programme)
