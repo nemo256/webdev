@@ -86,3 +86,4 @@
 ```html
 <h2 style="background-color: #993399; border: 4px solid black; border-radius: 8px; text-align: center;">Hello World!</h2>
 ```
+![Style](style.png)
