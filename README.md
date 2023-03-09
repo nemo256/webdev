@@ -18,7 +18,7 @@
 
 <div align="center">
 
-# `HTML` Hypertext Markup Language
+# `HTML`
 
 </div>
 
@@ -232,6 +232,6 @@
 
 <div align="center">
 
-# `CSS` Cascading Style Sheets
+# `CSS`
 
 </div>
