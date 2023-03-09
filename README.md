@@ -29,3 +29,17 @@
 - HTML décrit la structure d'une page Web.
 - HTML se compose d'une série d'éléments.
 - Un fichier HTML (Hyper Text Markup Language) n'est pas compilé (ce n'est pas un programme)
+
+## La base
+> Lancez un éditeur de texte et écrivez le code suivant :
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ma page</title>
+  </head>
+  <body>
+    <h1>Hello world!</h1>
+  </body>
+</html>
+```
