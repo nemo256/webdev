@@ -53,7 +53,7 @@
 
 ## Titres
 > Les titres HTML sont définis avec les balises `<h1>` à `<h6>` :
-```
+```html
 <h1>Titre 1</h1>
 <h2>Titre 2</h2>
 <h3>Titre 3</h3>
@@ -61,12 +61,12 @@
 
 ## Paragraphes
 > Les paragraphes HTML sont définis avec la balise `<p>` :
-```
+```html
 <p>Ceci est un paragraphe</p>
 ```
 
 ## Liens
 > Les liens HTML sont définis avec la balise `<a>` :
-```
+```html
 <a href="https://github.com/nemo256/webdev">Development Web</a>
 ```
