@@ -52,7 +52,7 @@
 - L'élément `<h1>` définit un grand titre.
 
 ## Titres
-> Les titres HTML sont définis avec les balises `<h1>` à `<h6>`, example :
+> Les titres HTML sont définis avec les balises `<h1>` à `<h6>`, exemple :
 ```html
 <h1>Titre 1</h1>
 <h2>Titre 2</h2>
@@ -60,13 +60,13 @@
 ```
 
 ## Paragraphes
-> Les paragraphes HTML sont définis avec la balise `<p>`, example :
+> Les paragraphes HTML sont définis avec la balise `<p>`, exemple :
 ```html
 <p>Ceci est un paragraphe</p>
 ```
 
 ## Liens
-> Les liens HTML sont définis avec la balise `<a>`, example :
+> Les liens HTML sont définis avec la balise `<a>`, exemple :
 ```html
 <a href="https://github.com/nemo256/webdev">Development Web</a>
 ```
@@ -74,7 +74,7 @@
 - Les attributs sont utilisés pour fournir des informations supplémentaires sur les éléments HTML.
 
 ## Images
-> Les images HTML sont définies avec la balise `<img>`, example :
+> Les images HTML sont définies avec la balise `<img>`, exemple :
 ```html
 <img src="image.png" alt="www.google.com" width="90" height="40">
 ```
@@ -82,14 +82,14 @@
 
 
 ## L'attribut `style`
-> L'attribut `style` est utilisé pour ajouter des styles à un élément, tels que la couleur, la police, la taille, etc... example :
+> L'attribut `style` est utilisé pour ajouter des styles à un élément, tels que la couleur, la police, la taille, etc... exemple :
 ```html
 <h2 style="background-color: #993399; border: 4px solid black; border-radius: 8px; text-align: center;">Hello World!</h2>
 ```
 ![Style](style.png)
 
 ## Éléments de mise en forme
-> Les éléments de mise en forme affichent des types de texte particuliers, example :
+> Les éléments de mise en forme affichent des types de texte particuliers, exemple :
 
 | Balise | Description |
 | ---------- | ------------------------------------- |
@@ -105,7 +105,7 @@
 | `<sup>` | Définit le texte en exposant |
 
 ## Commentaires
-> Vous pouvez ajouter des commentaires en utilisant la syntaxe suivante, example :
+> Vous pouvez ajouter des commentaires en utilisant la syntaxe suivante, exemple :
 ```html
 <!-- Ceci est un commentaire --> 
 ```
@@ -122,7 +122,7 @@
 ```
 
 ## Tableaux
-> Un tableau en HTML se compose de cellules de tableau à l'intérieur de lignes et de colonnes, example :
+> Un tableau en HTML se compose de cellules de tableau à l'intérieur de lignes et de colonnes, exemple :
 ```html
 <table>
   <tr>
@@ -201,7 +201,7 @@
 ```
 
 ## Formulaires
-> Un formulaire HTML est utilisé pour collecter les entrées des utilisateurs. L'entrée utilisateur est envoyée à un serveur pour traitement, Example :
+> Un formulaire HTML est utilisé pour collecter les entrées des utilisateurs. L'entrée utilisateur est envoyée à un serveur pour traitement, Exemple :
 ```html
 <form>
   <label for="utilisateur">Utilisateur :</label>
@@ -347,4 +347,18 @@
 ## Syntaxe CSS
 
 ![CSS_syntax](css_syntax.png)
+
+> Exemple :
+```html
+<h1>Bonjour!</h1>
+
+<style>
+h1 {
+  color: blue;
+  font-style: italic;
+}
+</style>
+```
+> Explication de l'exemple :
+
 
