@@ -50,3 +50,12 @@
 - L'élément `<title>` spécifie un titre pour la page HTML (qui s'affiche dans la barre de titre du navigateur ou dans l'onglet de la page).
 - L'élément `<body>` définit le corps du document et est un conteneur pour tous les contenus visibles, tels que les titres, les paragraphes, les images, les hyperliens, les tableaux, les listes, etc.
 - L'élément `<h1>` définit un grand titre.
+
+## Titres
+> Les titres HTML sont définis avec les balises `<h1>` à `<h6>` :
+```
+<h1>This is heading 1</h1>
+<h2>This is heading 2</h2>
+<h3>This is heading 3</h3>
+```
+
