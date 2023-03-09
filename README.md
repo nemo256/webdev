@@ -123,7 +123,6 @@
 
 ## Tableaux
 > Un tableau en HTML se compose de cellules de tableau à l'intérieur de lignes et de colonnes :
-> Example :
 ```html
 <table>
   <tr>
@@ -158,4 +157,13 @@
 ### Liste non ordonnée
 > Une liste non ordonnée commence par la balise `<ul>` (unordered list)
 > Chaque élément de la liste commence par la balise `<li>` (list item).
+```html
+<ul>
+  <li>Gabriel</li>
+  <li>Louis</li>
+  <li>Raphaël</li>
+  <li>Alice</li>
+  <li>Mia</li>
+</ul>
+```
 ### Liste ordonnée
