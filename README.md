@@ -90,13 +90,15 @@
 
 ## Éléments de mise en forme HTML
 > Les éléments de mise en forme affichent des types de texte particuliers :
-- `<b>` - Texte en gras.
-- `<strong>` - Texte important.
-- `<i>` - Texte en italique.
-- `<em>` - Texte mis en évidence.
-- `<mark>` - Texte marqué.
-- `<small>` - Texte plus petit.
-- `<del>` - Texte supprimé.
-- `<ins>` - Texte inséré.
-- `<sub>` - Texte en indice.
-- `<sup>` - Texte en exposant.
+| Balise | Description |
+| ---------- | -------------------------------- |
+| `<b>` | Définit le texte en gras |
+| `<strong>` | Définit le texte important |
+| `<i>` | Définit le texte en italique |
+| `<em>` | Définit le texte mis en évidence |
+| `<mark>` | Définit le texte marqué |
+| `<small>` | Définit un texte plus petit |
+| `<del>` | Définit le texte supprimé |
+| `<ins>` | Définit le texte inséré |
+| `<sub>` | Définit le texte en indice |
+| `<sup>` | Définit le texte en exposant |
