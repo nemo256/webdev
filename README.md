@@ -215,3 +215,16 @@
 ```
 
 ![Login](login.png)
+
+### L'élément `<input>`
+- L'élément HTML `<input>` est l'élément de formulaire le plus utilisé.
+- Un élément `<input>` peut être affiché de plusieurs façons, selon l'attribut `type`.
+- Voici quelques exemples :
+
+| Type | Description |
+| -------------- | ------------------------------ |
+| <input type="text"> | Affiche un champ de saisie de texte sur une seule ligne |
+| <input type="radio"> | Affiche un bouton radio (pour sélectionner l'un des nombreux choix) |
+| <input type="checkbox"> | Affiche une case à cocher (pour sélectionner zéro ou plusieurs choix) |
+| <input type="submit"> | Affiche un bouton de soumission (pour soumettre le formulaire) |
+| <input type="button"> | Affiche un bouton cliquable |
