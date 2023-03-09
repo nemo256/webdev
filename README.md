@@ -235,3 +235,111 @@
 # `CSS`
 
 </div>
+
+## Qu'est-ce que le CSS ?
+- CSS signifie Cascading Style Sheets.
+- CSS est utilisé pour définir les styles de vos pages Web, y compris la conception, la mise en page et les variations d'affichage pour différents appareils et tailles d'écran.
+- CSS décrit comment les éléments HTML doivent être affichés à l'écran, sur papier ou sur d'autres supports.
+- CSS économise beaucoup de travail. Il peut contrôler la mise en page de plusieurs pages Web à la fois.
+- Les feuilles de style externes sont stockées dans des fichiers CSS.
+
+## Démonstration CSS
+### Une page login sans CSS :
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Login Page</title>
+  </head>
+  <body>
+    <div id="login-container">
+      <h1>Login</h1>
+      <form>
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username" required>
+        <br>
+
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required>
+        <button type="submit">Submit</button>
+      </form>
+    </div>
+  </body>
+</html>
+```
+
+![Login_html](login_html.png)
+
+### Et maintenant, nous allons ajouter un peu de style, vous pouvez voir la différence :
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Login Page</title>
+    <style>
+      body {
+        background-color: #f2f2f2;
+        font-family: Arial, sans-serif;
+      }
+
+      #login-container {
+        width: 320px;
+        margin: 0 auto;
+        background-color: #ffffff;
+        box-shadow: 0px 0px 10px 8px rgba(0, 0, 0, 0.2);
+        border-radius: 10px;
+        padding: 24px;
+      }
+
+      h1 {
+        text-align: center;
+      }
+
+      label {
+        display: block;
+        margin-bottom: 10px;
+      }
+
+      input[type="text"],
+      input[type="password"] {
+        width: 100%;
+        padding: 8px 0px;
+        border: 2px solid;
+        border-radius: 5px;
+        margin-bottom: 20px;
+      }
+
+      button[type="submit"] {
+        background-color: #4CAF50;
+        width: 100%;
+        color: #ffffff;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+
+      button[type="submit"]:hover {
+        background-color: #3e8e41;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="login-container">
+      <h1>Login</h1>
+      <form>
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username" required>
+        <br>
+
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required>
+
+        <button type="submit">Submit</button>
+      </form>
+    </div>
+  </body>
+</html>
+```
+
+![Login_css](login_css.png)
