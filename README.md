@@ -88,7 +88,7 @@
 ```
 ![Style](style.png)
 
-## Éléments de mise en forme HTML
+## Éléments de mise en forme
 > Les éléments de mise en forme affichent des types de texte particuliers :
 
 | Balise | Description |
@@ -103,3 +103,20 @@
 | `<ins>` | Définit le texte inséré |
 | `<sub>` | Définit le texte en indice |
 | `<sup>` | Définit le texte en exposant |
+
+## Commentaires
+> Vous pouvez ajouter des commentaires en utilisant la syntaxe suivante :
+```html
+<!-- Ceci est un commentaire --> 
+```
+> Les commentaires peuvent être utilisés pour masquer du contenu :
+```html
+<!-- <p>Ceci est un paragraphe masqué</p> -->
+```
+> Vous pouvez également masquer plus d'une ligne :
+```html
+<!--
+<p>Tout ce qui se trouve entre le '<!--' et le '-->' sera caché.</p>
+<img border="0" src="pic_trulli.jpg" alt="Trulli">
+-->
+```
