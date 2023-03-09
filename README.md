@@ -78,3 +78,4 @@
 ```html
 <img src="image.png" alt="www.google.com" width="90" height="40">
 ```
+- Le fichier source `src`, le texte alternatif si l'image n'est pas trouvée `alt`, la largeur et la hauteur sont fournis sous forme d'attributs `width` et `height` respectivement.
