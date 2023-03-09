@@ -14,6 +14,8 @@
 <!-- Demo image -->
 ![Demo](demo.png)
 
-# HTML
 </div>
 
+<div align="center">
+# HTML
+</div>
