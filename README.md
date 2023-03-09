@@ -43,3 +43,10 @@
   </body>
 </html>
 ```
+### Explication :
+- La déclaration `<!DOCTYPE html>` définit que ce document est un document HTML5.
+- L'élément `<html>` est l'élément racine d'une page HTML.
+- L'élément `<head>` contient des méta-informations sur la page HTML.
+- L'élément `<title>` spécifie un titre pour la page HTML (qui s'affiche dans la barre de titre du navigateur ou dans l'onglet de la page).
+- L'élément `<body>` définit le corps du document et est un conteneur pour tous les contenus visibles, tels que les titres, les paragraphes, les images, les hyperliens, les tableaux, les listes, etc.
+- L'élément `<h1>` définit un grand titre.
