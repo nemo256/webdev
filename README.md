@@ -31,7 +31,7 @@
 - Un fichier HTML (Hyper Text Markup Language) n'est pas compilé (ce n'est pas un programme)
 
 ## La base
-> Lancez un éditeur de texte et écrivez le code suivant et enregistrez-le sous le nom `index.html` :
+> Lancez un éditeur de texte et écrivez le code suivant et enregistrez-le sous le nom `index.html` :
 ```html
 <!DOCTYPE html>
 <html>
@@ -52,7 +52,7 @@
 - L'élément `<h1>` définit un grand titre.
 
 ## Titres
-> Les titres HTML sont définis avec les balises `<h1>` à `<h6>` :
+> Les titres HTML sont définis avec les balises `<h1>` à `<h6>`, example :
 ```html
 <h1>Titre 1</h1>
 <h2>Titre 2</h2>
@@ -60,13 +60,13 @@
 ```
 
 ## Paragraphes
-> Les paragraphes HTML sont définis avec la balise `<p>` :
+> Les paragraphes HTML sont définis avec la balise `<p>`, example :
 ```html
 <p>Ceci est un paragraphe</p>
 ```
 
 ## Liens
-> Les liens HTML sont définis avec la balise `<a>` :
+> Les liens HTML sont définis avec la balise `<a>`, example :
 ```html
 <a href="https://github.com/nemo256/webdev">Development Web</a>
 ```
@@ -74,7 +74,7 @@
 - Les attributs sont utilisés pour fournir des informations supplémentaires sur les éléments HTML.
 
 ## Images
-> Les images HTML sont définies avec la balise `<img>` :
+> Les images HTML sont définies avec la balise `<img>`, example :
 ```html
 <img src="image.png" alt="www.google.com" width="90" height="40">
 ```
@@ -82,14 +82,14 @@
 
 
 ## L'attribut `style`
-> L'attribut `style` est utilisé pour ajouter des styles à un élément, tels que la couleur, la police, la taille, etc.
+> L'attribut `style` est utilisé pour ajouter des styles à un élément, tels que la couleur, la police, la taille, etc... example :
 ```html
 <h2 style="background-color: #993399; border: 4px solid black; border-radius: 8px; text-align: center;">Hello World!</h2>
 ```
 ![Style](style.png)
 
 ## Éléments de mise en forme
-> Les éléments de mise en forme affichent des types de texte particuliers :
+> Les éléments de mise en forme affichent des types de texte particuliers, example :
 
 | Balise | Description |
 | ---------- | ------------------------------------- |
@@ -105,7 +105,7 @@
 | `<sup>` | Définit le texte en exposant |
 
 ## Commentaires
-> Vous pouvez ajouter des commentaires en utilisant la syntaxe suivante :
+> Vous pouvez ajouter des commentaires en utilisant la syntaxe suivante, example :
 ```html
 <!-- Ceci est un commentaire --> 
 ```
@@ -122,7 +122,7 @@
 ```
 
 ## Tableaux
-> Un tableau en HTML se compose de cellules de tableau à l'intérieur de lignes et de colonnes :
+> Un tableau en HTML se compose de cellules de tableau à l'intérieur de lignes et de colonnes, example :
 ```html
 <table>
   <tr>
@@ -198,4 +198,18 @@
   background-color: blue;
 }
 </style>
+```
+
+## Formulaires
+> Un formulaire HTML est utilisé pour collecter les entrées des utilisateurs. L'entrée utilisateur est envoyée à un serveur pour traitement, Example :
+```html
+<form>
+  <label for="utilisateur">Utilisateur :</label>
+  <input type="text" required>
+  <br>
+  <label for="password">Mot de passe :</label>
+  <input type="password" required>
+  <br>
+  <input type="submit" value="Connexion">
+</form>
 ```
