@@ -90,6 +90,7 @@
 
 ## Éléments de mise en forme HTML
 > Les éléments de mise en forme affichent des types de texte particuliers :
+
 | Balise | Description |
 | ---------- | -------------------------------- |
 | `<b>` | Définit le texte en gras |
