@@ -92,7 +92,7 @@
 > Les éléments de mise en forme affichent des types de texte particuliers :
 
 | Balise | Description |
-| ---------- | -------------------------------- |
+| ---------- | ------------------------------------- |
 | `<b>` | Définit le texte en gras |
 | `<strong>` | Définit le texte important |
 | `<i>` | Définit le texte en italique |
