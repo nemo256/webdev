@@ -166,3 +166,15 @@
 </ul>
 ```
 ### Liste ordonnée
+- Une liste ordonnée commence par la balise `<ol>` (ordered list)
+- Chaque élément de la liste commence par la balise `<li>` (list item).
+```html
+<ol>
+  <li>A</li>
+  <li>B</li>
+  <li>C</li>
+  <li>D</li>
+</ol>
+```
+
+## Les balises `class` et `id`
