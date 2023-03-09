@@ -360,5 +360,6 @@ h1 {
 </style>
 ```
 > Explication de l'exemple :
-
-
+- `h1` est un sélecteur en CSS (il pointe vers l'élément HTML que vous souhaitez styliser : `<h1>`).
+- `color` est une propriété et `blue` est sa valeur.
+- `font-style` est une propriété et `italic` est sa valeur.
