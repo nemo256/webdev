@@ -87,3 +87,16 @@
 <h2 style="background-color: #993399; border: 4px solid black; border-radius: 8px; text-align: center;">Hello World!</h2>
 ```
 ![Style](style.png)
+
+## Éléments de mise en forme HTML
+> Les éléments de mise en forme affichent des types de texte particuliers :
+- `<b>` - Texte en gras.
+- `<strong>` - Texte important.
+- `<i>` - Texte en italique.
+- `<em>` - Texte mis en évidence.
+- `<mark>` - Texte marqué.
+- `<small>` - Texte plus petit.
+- `<del>` - Texte supprimé.
+- `<ins>` - Texte inséré.
+- `<sub>` - Texte en indice.
+- `<sup>` - Texte en exposant.
