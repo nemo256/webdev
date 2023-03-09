@@ -18,12 +18,12 @@
 
 <div align="center">
 
-# `HTML`
+# `HTML` Hypertext Markup Language
 
 </div>
 
 ## Qu'est-ce que le HTML ?
-- HTML signifie Hyper Text Markup Language.
+- HTML signifie Hypertext Markup Language.
 - Un fichier HTML est un fichier texte simple, parfaitement lisible, respectant un ensemble de convention d'écriture
 - HTML est le langage de balisage standard pour la création de pages Web.
 - HTML décrit la structure d'une page Web.
@@ -229,3 +229,9 @@
 | `<input type="checkbox">` | Affiche une case à cocher (pour sélectionner zéro ou plusieurs choix) |
 | `<input type="submit">` | Affiche un bouton de soumission (pour soumettre le formulaire) |
 | `<input type="button">` | Affiche un bouton cliquable |
+
+<div align="center">
+
+# `CSS` Cascading Style Sheets
+
+</div>
