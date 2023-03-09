@@ -120,3 +120,30 @@
 <img src="image.png" alt="Titre de l'image">
 -->
 ```
+
+## Tableaux
+> Un tableau en HTML se compose de cellules de tableau à l'intérieur de lignes et de colonnes :
+```html
+<table>
+  <tr>
+    <th>Module</th>
+    <th>Coefficient</th>
+    <th>Moyenne</th>
+  </tr>
+  <tr>
+    <td>Anglais</td>
+    <td>2</td>
+    <td>18</td>
+  </tr>
+  <tr>
+    <td>Development Web</td>
+    <td>3</td>
+    <td>17</td>
+  </tr>
+</table>
+```
+
+| Module | Coefficient | Moyenne |
+| --------------- | ------ | ------ |
+| Anglais | 2 | 18 |
+| Development Web | 3 | 17 |
