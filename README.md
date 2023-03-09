@@ -223,7 +223,7 @@
 
 | Type | Description |
 | ----------------------- | ------------------------------ |
-| `<input type="text">`  | Affiche un champ de saisie de texte sur une seule ligne |
+| `<input type="text">` | Affiche un champ de saisie de texte sur une seule ligne |
 | `<input type="radio">` | Affiche un bouton radio (pour sélectionner l'un des nombreux choix) |
 | `<input type="checkbox">` | Affiche une case à cocher (pour sélectionner zéro ou plusieurs choix) |
 | `<input type="submit">` | Affiche un bouton de soumission (pour soumettre le formulaire) |
