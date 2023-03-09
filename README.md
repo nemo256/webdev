@@ -123,6 +123,7 @@
 
 ## Tableaux
 > Un tableau en HTML se compose de cellules de tableau à l'intérieur de lignes et de colonnes :
+> Example :
 ```html
 <table>
   <tr>
@@ -152,3 +153,9 @@
 - Tout ce qui se trouve entre `<td>` et `</td>` est le contenu de la cellule du tableau.
 - Chaque ligne du tableau commence par une balise `<tr>` et se termine par une balise `</tr>`.
 - Parfois, vos cellules sont des cellules d'en-tête. Dans ce cas, utilisez la balise `<th>` au lieu de la balise `<td>`.
+
+## Listes
+### Liste non ordonnée
+> Une liste non ordonnée commence par la balise `<ul>` (unordered list)
+> Chaque élément de la liste commence par la balise `<li>` (list item).
+### Liste ordonnée
