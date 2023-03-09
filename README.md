@@ -365,3 +365,33 @@ h1 {
 - `font-style` est une propriété et `italic` est sa valeur.
 
 ![CSS_example](css_example.png)
+
+## Liste des propriétés CSS les plus communes
+
+| Propriété CSS | Exemple | Description |
+| --- | --- | --- |
+| `color` | `color: red;` | Définit la couleur du texte |
+| `font-size` | `font-size: 20px;` | Définit la taille de police |
+| `font-family` | `font-family: Arial, sans-serif;` | Définit la police utilisée |
+| `text-align` | `text-align: center;` | Définit l'alignement horizontal du texte |
+| `background-color` | `background-color: #FFFFFF;` | Définit la couleur d'arrière-plan |
+| `border` | `border: 1px solid black;` | Définit une bordure autour d'un élément |
+| `padding` | `padding: 10px;` | Définit l'espace intérieur entre le contenu et la bordure |
+| `margin` | `margin: 20px;` | Définit l'espace extérieur entre l'élément et les éléments adjacents |
+| `display` | `display: block;` | Définit le type d'affichage de l'élément |
+| `float` | `float: left;` | Définit le flottement de l'élément |
+| `width` | `width: 50%;` | Définit la largeur de l'élément |
+| `height` | `height: 200px;` | Définit la hauteur de l'élément |
+| `text-decoration` | `text-decoration: underline;` | Définit la décoration du texte (comme souligner) |
+| `text-transform` | `text-transform: uppercase;` | Définit la transformation du texte (majuscule, minuscule, capitale, etc.) |
+| `line-height` | `line-height: 1.5;` | Définit la hauteur de ligne d'un élément |
+| `font-weight` | `font-weight: bold;` | Définit la graisse de la police (gras ou normal) |
+| `opacity` | `opacity: 0.5;` | Définit l'opacité d'un élément (entre 0 et 1) |
+| `background-image` | `background-image: url("image.jpg");` | Définit l'image d'arrière-plan |
+| `background-size` | `background-size: cover;` | Définit la taille de l'image d'arrière-plan |
+| `box-shadow` | `box-shadow: 2px 2px 4px #000000;` | Ajoute une ombre à un élément |
+| `text-shadow` | `text-shadow: 1px 1px 2px #000000;` | Ajoute une ombre au texte |
+| `border-radius` | `border-radius: 10px;` | Définit le rayon des coins d'une bordure |
+| `transition` | `transition: all 0.3s ease-in-out;` | Définit la transition entre deux états d'un élément |
+| `position` | `position: absolute;` | Définit la position d'un élément par rapport à son conteneur |
+| `z-index` | `z-index: 1;` | Définit l'ordre de superposition d'un élément |
