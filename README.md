@@ -178,3 +178,24 @@
 ```
 
 ## Les balises `class` et `id`
+- En HTML, les balises ID et class sont utilisées pour attribuer un identifiant spécifique ou un identifiant de groupe à un élément HTML, vous permettant de les cibler à l'aide de CSS ou de JavaScript.
+
+- La principale différence entre les balises ID et class est qu'un ID doit être unique dans un document HTML, tandis qu'une classe peut être utilisée pour identifier plusieurs éléments.
+- Utilisation :
+```html
+<h1 class="mon_titre">Bonjour (class)</h1>
+<h1 id="mon_titre">Bonjour (id)</h1>
+```
+- Nous pouvons sélectionner l'élément est css en utilisant :
+```css
+<!-- l'attribut <style> est pour definit un style -->
+<style>
+.mon_titre {
+  background-color: green;
+}
+
+#mon_titre {
+  background-color: blue;
+}
+</style>
+```
