@@ -32,7 +32,7 @@
 
 ## La base
 > Lancez un éditeur de texte et écrivez le code suivant et enregistrez-le sous le nom `index.html` :
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -63,4 +63,10 @@
 > Les paragraphes HTML sont définis avec la balise `<p>` :
 ```
 <p>Ceci est un paragraphe</p>
+```
+
+## Liens
+> Les liens HTML sont définis avec la balise `<a>` :
+```
+<a href="https://github.com/nemo256/webdev">Development Web</a>
 ```
