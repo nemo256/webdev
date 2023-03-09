@@ -3,7 +3,7 @@
 # `Web Development`
 
 <h3>
-  Personal boilerplate
+  Programme de development web. 
 </h3>
 
 <!-- Badges -->
