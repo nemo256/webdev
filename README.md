@@ -155,8 +155,8 @@
 
 ## Listes
 ### Liste non ordonnée
-> Une liste non ordonnée commence par la balise `<ul>` (unordered list)
-> Chaque élément de la liste commence par la balise `<li>` (list item).
+- Une liste non ordonnée commence par la balise `<ul>` (unordered list)
+- Chaque élément de la liste commence par la balise `<li>` (list item).
 ```html
 <ul>
   <li>Alice</li>
