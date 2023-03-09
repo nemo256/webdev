@@ -31,7 +31,7 @@
 - Un fichier HTML (Hyper Text Markup Language) n'est pas compilé (ce n'est pas un programme)
 
 ## La base
-> Lancez un éditeur de texte et écrivez le code suivant :
+> Lancez un éditeur de texte et écrivez le code suivant et enregistrez-le sous le nom `index.html` :
 ```
 <!DOCTYPE html>
 <html>
