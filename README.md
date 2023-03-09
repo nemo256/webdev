@@ -79,3 +79,10 @@
 <img src="image.png" alt="www.google.com" width="90" height="40">
 ```
 - Le fichier source `src`, le texte alternatif si l'image n'est pas trouvée `alt`, la largeur et la hauteur sont fournis sous forme d'attributs `width` et `height` respectivement.
+
+
+## L'attribut `style`
+> L'attribut `style` est utilisé pour ajouter des styles à un élément, tels que la couleur, la police, la taille, etc.
+```html
+<h2 style="background-color: #993399; border: 4px solid black; border-radius: 8px; text-align: center;">Hello World!</h2>
+```
