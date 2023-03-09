@@ -70,6 +70,9 @@
 ```html
 <a href="https://github.com/nemo256/webdev">Development Web</a>
 ```
+- La destination du lien est spécifiée dans l'attribut href.
+- Les attributs sont utilisés pour fournir des informations supplémentaires sur les éléments HTML.
+- Vous en apprendrez plus sur les attributs dans un chapitre ultérieur.
 
 ## Images
 > Les images HTML sont définies avec la balise `<img>` :
