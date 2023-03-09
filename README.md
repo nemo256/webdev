@@ -147,3 +147,8 @@
 | --------------- | ------ | ------ |
 | Anglais | 2 | 18 |
 | Development Web | 3 | 17 |
+
+- Chaque cellule du tableau est définie par une balise `<td>` et une balise `</td>`.
+- Tout ce qui se trouve entre `<td>` et `</td>` est le contenu de la cellule du tableau.
+- Chaque ligne du tableau commence par une balise `<tr>` et se termine par une balise `</tr>`.
+- Parfois, vos cellules sont des cellules d'en-tête. Dans ce cas, utilisez la balise `<th>` au lieu de la balise `<td>`.
