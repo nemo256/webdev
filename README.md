@@ -188,7 +188,7 @@
 ```
 - Nous pouvons sélectionner l'élément est css en utilisant :
 ```css
-<!-- l'attribut <style> est pour definit un style personnel -->
+<!-- l'attribut <style> est pour definit un style personnalisé -->
 <style>
 .mon_titre {
   background-color: green;
