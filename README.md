@@ -116,7 +116,7 @@
 > Vous pouvez également masquer plus d'une ligne :
 ```html
 <!--
-<p>Tout ce qui se trouve entre le '<!--' et le '-->' sera caché.</p>
+<p>Tout ce qui se trouve entre le `<!--` et le `-->` sera caché.</p>
 <img border="0" src="pic_trulli.jpg" alt="Trulli">
 -->
 ```
