@@ -70,3 +70,9 @@
 ```html
 <a href="https://github.com/nemo256/webdev">Development Web</a>
 ```
+
+## Images
+> Les images HTML sont définies avec la balise `<img>` :
+```html
+<img src="image.png" alt="www.google.com" width="90" height="40">
+```
